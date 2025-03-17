@@ -157,5 +157,6 @@ PCBの左側にSHケーブルを差し込んでからケーススペーサーを
 ![](./Images/BuildGuide37.jpg)
 ![](./Images/BuildGuide38.jpg)
 
-1. 
+1. これで完成です！
+お好きなキースイッチとキーキャップを装着してください！！ 
 ![](./Images/BuildGuide39.jpg)
